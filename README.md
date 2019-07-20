@@ -12,17 +12,19 @@ All information and code are provided for educational purposes only. Using this 
 ## About
 
 Chrome version of https://github.com/sowdust/searchbook/
-Ported by using Justin Seitz's instructions: https://twitter.com/jms_dot_py/status/1152277562531430401
+
+Ported by using [Justin Seitz](https://twitter.com/jms_dot_py)'s [instructions](https://twitter.com/jms_dot_py/status/1152277562531430401)
 
 ## Installation
 
-Clone the repository or download it as zip file and then extract it on your filesystem
-In Chrome, open a new tab and visit the URL `chrome://extensions`
-Turn on the "developer mode" switch in the top right corner
-Select Load Unpacked Extension and open the searchbook folder
+* Clone the repository or download it as zip file and then extract it on your filesystem
+* In Chrome, open a new tab and visit the URL `chrome://extensions`
+* Turn on the "developer mode" switch in the top right corner
+* Select Load Unpacked Extension and open the searchbook folder
 
 ## Usage
-Please refer to this README for usage instructions: https://github.com/sowdust/searchbook/blob/master/README.md
+
+Please refer to [this README](https://github.com/sowdust/searchbook/blob/master/README.md) for usage instructions.
 
 ## License
 
