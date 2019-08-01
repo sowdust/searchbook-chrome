@@ -1,5 +1,9 @@
 # SearchBook ![](https://raw.githubusercontent.com/sowdust/searchbook/master/icon.png) 
 
+```diff
+- Aug 1st: The extension is currently not working: unencrypted queries are no more accepted by the endpoint.
+```
+
 A Chrome extension for executing some Graph-like searches against Facebook.
 
 Related article: [techblog.mediaservice.net/2019/06/facebook-graphs-not-dead/](https://techblog.mediaservice.net/2019/06/facebook-graphs-not-dead/)
